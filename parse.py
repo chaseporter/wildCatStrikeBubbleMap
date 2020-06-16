@@ -1,3 +1,4 @@
+# This function takes the raw KML data and pulls the coordinates of the strike.
 g = open("parsedTxt.csv", "w+")
 
 with open("strikeMap.kml") as file_in:

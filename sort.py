@@ -1,3 +1,4 @@
+# After manually adding the title of the strike, size, and category, this function will sort the strike by category
 g = open("parsedTxt2.csv", "w+")
 
 catDict = {"h": "", "wf": "", "t":"", "o":"", "f":""}
